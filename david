@@ -1,0 +1,23 @@
+ncole account through cli via public ip to aws console
+
+flmtechteam.aws@gmail.com
+
+sie, flm lo vido recording upload chesaru kada aws adhi okkasari maku process chupistaraCIES
+2)MFA : Multi 
+
+
+
+Elasticbeanstalk-1
+
+http://food-env.eba-fhsps5ss.us-east-1.elasticbeanstalk.com/
+
+
+https://suneel.hashnode.dev/aws-lambda-project
+
+#!/bin/bash
+# Use this for your user data (script from top to bottom)
+# install httpd(Linux 2 version)
+yum update -y
+yum install -y httpd
+systemctl start httpd
+systemctl enable httpd
