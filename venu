@@ -1,0 +1,9 @@
+->gO TO ec2 and create 2 instance
+->go to efs create the efs --> go creted efs and top right there is attach option click on it, it will top the page with the command of efs to connect with 2 instance
+->now  connect the instance with CLI and install the EFS Package (yum install amazon-efs-utils -y) by installing the package to configure the efs commands
+->before installing the packages give the permission in security group as NFS group.
+->gO TO ec2 and create 2 instance
+->go to efs create the efs --> go creted efs and top right there is attach option click on it, it will top the page with the command of efs to connect with 2 instance
+->now  connect the instance with CLI and install the EFS Package (yum install amazon-efs-utils -y) by installing the package to configure the efs commands
+->before installing the packages give the permission in security group as NFS group.
+
